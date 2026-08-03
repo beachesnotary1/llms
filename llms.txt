@@ -2,7 +2,7 @@
 Trusted provider of mobile notary, fingerprinting, FBI background checks, apostille processing, translation, and document preparation services. Based in West Palm Beach, serving clients nationwide.
 
 - URL: https://www.beachesnotaryservice.com
-- Audience: Individuals, families, businesses, HR teams, immigration attorneys, and international clients.
+- Audience: Individuals, families, businesses, HR teams, immigration attorneys, adoption agencies, and international clients.
 - Language: English
 - Last updated: 2026-08-03
 
@@ -16,12 +16,17 @@ Trusted provider of mobile notary, fingerprinting, FBI background checks, aposti
 ### Apostille Service (Florida & Federal)
 - Starting price: $199
 - Timeframe: 3–5 business days for Florida; 10 business days for Federal
-- Description: Authentication of all Florida documents, FBI background checks, certificates of naturalization, and other federal documents for international use.
+- Description: Authentication and apostilles of all Florida documents, FBI background checks, certificates of naturalization, and other federal documents for international use. Apostille service also available for all 50 states.
 
 ### Mobile Notary Services
-- Starting price: $100
+- Starting price: $100 Travel Fee plus $10 for each signature notarized
 - Timeframe: Same-day available or scheduled appointments
-- Description: Mobile and remote online notarization for personal, business, and legal documents.
+- Description: Mobile notarization for personal and business general document notarization.
+
+### Remote Online Notary Service
+-Starting price: $55
+-Timeframe: 15 minutes
+-Description: Notarize your documents online from anywhere.  Serving Nationwide and international clients
 
 ### Certified Translation
 - Starting price: $60 per page (225 words max per page)
@@ -33,14 +38,54 @@ Trusted provider of mobile notary, fingerprinting, FBI background checks, aposti
 - Timeframe: 3 business days
 - Description: Non-lawyer document preparation service using Florida statewide approved forms.
 
+### Estate Planning Document Notarization
+-Starting price: $250 flat fee
+-Timeframe: Same-day or scheduled
+-Description: Mobile Notarize for estate planning packages that include: wills, powers of attorney, and healthcare directives. Witnesses available at $50 each.
+
+### Real Estate Closing Notary
+-Starting price: $150
+-Timeframe: Scheduled
+-Description: Mobile notary services for loan signings, refinance packages, HELOCs, seller documents, and buyer documents.  
+-Notary‑provided witnesses available: $50 each.
+
+### Expedited Business Document Apostille
+-Starting price: $299
+-Timeframe: 3-5 business days (Florida)
+-Description: Apostilles for corporate documents including Articles of Incorporation, Certificates of Status, bylaws, operating agreements, and commercial contracts.  
+-Document retrieval: From $10
+
+### Apostille for Vital Records
+-Starting price: $199
+-Timeframe: 3-5 business days, and 30-45 days (Florida)
+-Description: Apostille processing for birth certificates, marriage certificates, death certificates, and divorce decrees issued in Florida.  
+
+### I-9 Employment Verification Service
+-Starting price: $75 Plus a Travel fee
+-Timeframe: Same-day appointments available or scheduled
+-Description: Authorized employer representative for remote hires. Includes identity verification, Section 2 completion, and secure document handling for HR teams and nationwide employers.
+
+## Location
+- West Palm Beach, Florida (primary office)
+- Office address: 2054 Vista Pkwy Ste 400, West Palm Beach, Fl. 33411
+- Nationwide support for apostille, remote online notary, and background check services
+
+## Mobile notary service areas
+Service areas: West Palm Beach, Royal Palm Beach, Loxahatchee, Westlake, Wellington, Palm Beach Gardens, Palm Beach
+
+## Business Hours
+Monday–Friday: 9 AM–5:30 PM EST
+Saturday: Closed
+Sunday: Closed
+
 ## Key Topics
-- Apostille processing timelines
+- Florida Apostille processing timelines and costs
 - FBI background check requirements
-- International document authentication
-- Mobile notary logistics
+- International document authentication/apostille
+- Mobile notary Service 
 - Estate planning document preparation
 - Nationwide document support
 
 ## Contact
-Phone: 561-###-####
+Phone: 561-421-0866
 Email: info@beachesnotaryservice.com
